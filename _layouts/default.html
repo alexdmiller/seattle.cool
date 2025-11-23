@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
   <header>
     <nav>
-      <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
+      <a href="{{ '/' | relative_url }}" class="logo">seattle.cool</a>
+      <p>{{ site.description }}</p>
     </nav>
   </header>
 
@@ -18,7 +21,9 @@
   </main>
 
   <footer>
-    <p>{{ site.description }}</p>
+    tips@seattle.cool /
+    maintained by <a href="https://alexmiller.cv">Alex Miller</a>
   </footer>
 </body>
+
 </html>

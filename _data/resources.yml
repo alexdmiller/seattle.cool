@@ -1,0 +1,127 @@
+- name: Seattle Creative Code
+  type: web/discord
+  url: https://seattlecreativecode.com/
+
+- name: Passable
+  type: space/makerspace
+  url: https://passable.art/
+
+- name: Wayword Music Series
+  type: event/series
+  url: https://www.waywardmusic.org/
+
+- name: ALTspace
+  type: space/makerspace
+  url: https://www.altspaceseattle.com/
+
+- name: Seattle Interactive Media-Lab
+  type: space
+  url: https://www.seattlesim.com/
+
+- name: Art + Code
+  type: event/series
+  url: https://luma.com/art-code
+
+- name: Nonsequitur
+  type: event/series
+  url: https://www.nseq.org/
+
+- name: DXARTS
+  type: school/department
+  url: https://dxarts.washington.edu/
+
+- name: SPAM New Media Festival
+  type: event/festival
+  url: https://spamnewmediafestival.com/
+
+- name: Georgetown Steamplant
+  type: space/venue
+  url: https://www.georgetownsteamplant.org/
+
+- name: Equinox Studio
+  type: space/studio
+  url: https://watershedcommunity.org/our-purpose/equinox-studios/
+
+- name: Machine Agency
+  type: school/lab
+  url: https://depts.washington.edu/machines/
+
+- name: Seattle Noise
+  type: web/blog
+  url: https://www.seattlenoise.org/
+
+- name: The Chapel
+  type: space/venue
+  url: https://historicseattle.org/gsc-chapel-space/
+
+- name: Gallery 1412
+  type: space/venue
+  url: https://gallery1412dotorg.wordpress.com/
+
+- name: Henry Art Gallery
+  type: space/gallery
+  url: https://henryart.org/
+
+- name: Seattle HTML Day
+  type: event/series
+  url: https://html-energy-seattle-2025.aninternet.farm/
+
+- name: Arts & Tech Symposium
+  type: event/series
+  url: https://artandtechsymposium.com
+
+- name: Actualize
+  type: space/studio
+  url: https://www.actualize.space/
+
+- name: Connections Museum
+  type: space/museum
+  url: https://www.telcomhistory.org/ConnectionsSeattle.html
+
+- name: Modular Seattle
+  type: event/series
+  url: https://www.modularseattle.com
+
+- name: Seattle Indies Expo
+  type: event/festival
+  url: https://six.seattleindies.org/
+
+- name: Electric Sky Art Camp
+  type: event/festival
+  url: https://electricskyartcamp.com/
+
+- name: Pioneer Square Art Walk
+  type: event/series
+  url: https://pioneersquare.org/art-walks/
+
+- name: Lusio
+  type: event/series
+  url: https://www.lusiolight.com/
+
+- name: Future Sparks
+  type: event/series
+  url: https://www.futurearts.co/salon
+
+- name: Seattle Creative Directory
+  type: web
+  url: https://www.seattlecreative.directory/
+
+- name: Pratt Fine Art Center
+  type: school
+  url: https://www.pratt.org/
+
+- name: Common Area Maintenance
+  type: space
+  url: https://www.camseattle.org/
+
+- name: Vermillion
+  type: space/gallery
+  url: https://www.vermillionseattle.com/
+
+- name: Jack Straw Cultural Center
+  type: space
+  url: https://www.jackstraw.org/
+
+- name: SrcMaterial
+  type: funding
+  url: https://www.srcmaterial.org/
