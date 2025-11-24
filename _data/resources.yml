@@ -1,127 +1,174 @@
 - name: Seattle Creative Code
-  type: web/discord
+  type: discord
   url: https://seattlecreativecode.com/
+  description: creative coding community, holds the free monthly [Art + Code event](https://luma.com/art-code)
 
 - name: Passable
-  type: space/makerspace
+  type: makerspace
   url: https://passable.art/
+  location: https://maps.google.com/?q=1005+E+Union+St,+Seattle,+WA
+  description: $100/month makerspace with wood shop, CNC router, laser cutter, 3D printers
 
 - name: Wayword Music Series
-  type: event/series
+  type: event series
   url: https://www.waywardmusic.org/
+  description: monthly experimental concert series at the [Chapel Performance Space](https://historicseattle.org/gsc-chapel-space/), $5-20 suggested donation
 
 - name: ALTspace
-  type: space/makerspace
+  type: makerspace
   url: https://www.altspaceseattle.com/
+  location: https://maps.google.com/?q=5516+4th+Ave+S,+Seattle,+WA
+  description: starting at $65/month makerspace with wood shop, metal shop, more; dedicated spaces available for higher rate
 
 - name: Seattle Interactive Media-Lab
   type: space
   url: https://www.seattlesim.com/
-
-- name: Art + Code
-  type: event/series
-  url: https://luma.com/art-code
+  location: https://maps.google.com/?q=3131+Western+Ave+Unit+421,+Seattle,+WA
+  description: community space with free coworking, meetups, workshops
 
 - name: Nonsequitur
-  type: event/series
+  type: event series
   url: https://www.nseq.org/
+  description: experimental music and sound art programming, $5-20 suggested donation
 
 - name: DXARTS
-  type: school/department
+  type: department
   url: https://dxarts.washington.edu/
+  description: experimental and digital arts research at University of Washington
 
 - name: SPAM New Media Festival
-  type: event/festival
+  type: festival
   url: https://spamnewmediafestival.com/
+  description: free yearly festival showcasing experimental installations and performances; associated with [DXARTS](https://dxarts.washington.edu/)
 
 - name: Georgetown Steamplant
-  type: space/venue
+  type: space
   url: https://www.georgetownsteamplant.org/
+  location: https://maps.google.com/?q=6605+13th+Ave+S,+Seattle,+WA
+  description: historic industrial building transformed into a cultural venue; free monthly tours
 
 - name: Equinox Studio
-  type: space/studio
+  type: studio
   url: https://watershedcommunity.org/our-purpose/equinox-studios/
+  location: https://maps.google.com/?q=6555+5th+Ave+S,+Seattle,+WA
+  description: home to over 200 artists and artisans providing affordable creative spaces; it is common to be wait-listed
 
 - name: Machine Agency
-  type: school/lab
+  type: lab
   url: https://depts.washington.edu/machines/
+  description: research group working on fabrication machines & interfaces at the University of Washington
 
 - name: Seattle Noise
-  type: web/blog
+  type: calendar
   url: https://www.seattlenoise.org/
+  description: essential blog sharing upcoming experimental music shows; [read our interview](/interviews/seattle-noise)
 
 - name: The Chapel
-  type: space/venue
+  type: venue
   url: https://historicseattle.org/gsc-chapel-space/
+  location: https://maps.google.com/?q=4649+Sunnyside+Ave+N,+Seattle,+WA
+  description: performance space hosting experimental music; $300 rental fee
 
 - name: Gallery 1412
-  type: space/venue
+  type: venue
   url: https://gallery1412dotorg.wordpress.com/
+  location: https://maps.google.com/?q=1412+18th+Ave,+Seattle,+WA
+  description: performance space hosting experimental music, poetry, avant-garde events; rental fee is $50 + 30% of door sales
 
 - name: Henry Art Gallery
-  type: space/gallery
+  type: gallery
   url: https://henryart.org/
+  location: https://maps.app.goo.gl/SRTs29jjsRvAHo2d8
+  description: contemporary art museum at the University of Washington
 
 - name: Seattle HTML Day
-  type: event/series
+  type: event series
   url: https://html-energy-seattle-2025.aninternet.farm/
+  description: yearly celebration of HTML and the open web in the park; an instantiation of the global [HTML day](https://html.energy/)
 
 - name: Arts & Tech Symposium
-  type: event/series
+  type: event series
   url: https://artandtechsymposium.com
+  description: held annually and including talks, panels, networking, exhibition
 
 - name: Actualize
-  type: space/studio
+  type: studio
   url: https://www.actualize.space/
+  location: https://maps.app.goo.gl/qSB95pDuRHHVWtjFA
+  description: free / low cost artist studios, events, shows and workshops
 
 - name: Connections Museum
-  type: space/museum
+  type: museum
   url: https://www.telcomhistory.org/ConnectionsSeattle.html
+  location: https://maps.google.com/?q=7000+E+Marginal+Way+S,+Seattle,+WA
+  description: telecommunications history museum
 
 - name: Modular Seattle
-  type: event/series
+  type: event series
   url: https://www.modularseattle.com
+  description: monthly free performance events, workshops, and access to modular synthesizers
 
 - name: Seattle Indies Expo
-  type: event/festival
+  type: festival
   url: https://six.seattleindies.org/
+  description: free annual celebration of indie games
 
 - name: Electric Sky Art Camp
-  type: event/festival
+  type: festival
   url: https://electricskyartcamp.com/
+  description: art and tech creative retreat where you go camping and make stuff, $50
 
 - name: Pioneer Square Art Walk
-  type: event/series
+  type: event series
   url: https://pioneersquare.org/art-walks/
+  description: apparently the nation's longest-running monthly art walk event; free
 
 - name: Lusio
-  type: event/series
+  type: event series
   url: https://www.lusiolight.com/
+  description: light art organization creating and curating installations
 
 - name: Future Sparks
-  type: event/series
+  type: event series
   url: https://www.futurearts.co/salon
+  description: monthly coworking, networking, demos from tech artists
 
 - name: Seattle Creative Directory
   type: web
   url: https://www.seattlecreative.directory/
+  description: phonebook of studios
 
 - name: Pratt Fine Art Center
   type: school
   url: https://www.pratt.org/
+  location: https://maps.google.com/?q=1902+S+Main+St,+Seattle,+WA
+  description: classes and studio for woodworking, printmaking, jewelry, glass blowing, more; prices range depending on practice, ~$100-550
 
 - name: Common Area Maintenance
   type: space
   url: https://www.camseattle.org/
+  location: https://maps.google.com/?q=2125+Second+Ave,+Seattle,+WA
+  description: shared art studio and gallery
 
 - name: Vermillion
-  type: space/gallery
+  type: gallery
   url: https://www.vermillionseattle.com/
+  location: https://maps.google.com/?q=1508+11th+Ave,+Seattle,+WA
+  description: gallery bar and event venue, rental at $150-$350/hr
 
 - name: Jack Straw Cultural Center
   type: space
   url: https://www.jackstraw.org/
+  location: https://maps.app.goo.gl/uqRpWjTpU9eu2wCU8
+  description: recording studios, artist residencies, and educational programs since 1962
 
 - name: SrcMaterial
   type: funding
   url: https://www.srcmaterial.org/
+  description: nonprofit providing grants, resources, support
+
+- name: SOIL gallery
+  type: gallery
+  url: https://soilart.org/
+  location: https://maps.app.goo.gl/1bkbEo5buMJgXrLK6
+  description: artist-run gallery since 1995, holds open calls for shows on a yearly basis
