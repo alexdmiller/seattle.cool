@@ -61,7 +61,7 @@
 - name: Seattle Noise
   type: calendar
   url: https://www.seattlenoise.org/
-  description: essential blog sharing upcoming experimental music shows; [read our interview](/interviews/seattle-noise)
+  description: essential blog sharing upcoming experimental music shows
 
 - name: The Chapel
   type: venue

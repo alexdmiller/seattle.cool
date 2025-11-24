@@ -3,7 +3,7 @@ layout: default
 title: seattle.cool
 ---
 
-👉 <span class="new">New!</span> [Interview with SeattleNoise.org](/interviews/seattle-noise) (Nov 2025)
+<div class="announce">👉 <span class="new">New!</span> <a href="{{ '/interviews/seattle-noise' | relative_url }}">Interview with SeattleNoise.org</a> (Nov 2025)</div>
 
 <table>
   <tbody>
